@@ -23,7 +23,7 @@ public class AccentureEx3 {
         return r;
     }
     public static void main(String[] args) {
-        String a="1101110111111";
+        String a="110111011111101";
         System.out.println(convert(a));
     }
 }
